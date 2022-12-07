@@ -1,0 +1,76 @@
+{
+    "api": [
+        {
+            "id": 1,
+            "name": "Super Mario 3D World",
+            "img": "https://upload.wikimedia.org/wikipedia/en/5/5e/Super_Mario_3D_World_box_art.jpg",
+            "desc": "Players control Mario and his friends attempting to rescue fairy-like creatures called Sprixies from Bowser, who invades the realm known as the Sprixie Kingdom.",
+            "rel_date": "November 23rd, 2013",
+            "platforms": "Nintendo Switch, Wii U",
+            "trailer": "https://www.youtube.com/watch?v=wLOKVABfrzw"
+        },
+        {
+            "id": 2,
+            "name": "New Super Mario Bros. U",
+            "img": "https://upload.wikimedia.org/wikipedia/en/0/03/New_Super_Mario_Bros._U_box_art.png",
+            "desc": "Princess Peach is held captive in her castle by Bowser, Bowser Jr., and the Koopalings who invade and use a giant mechanical arm to throw Mario, Luigi, and two Toads far away. Mario and friends must now travel across this new land returning to Peach's castle in order to save her.",
+            "rel_date": "November 18, 2012",
+            "platforms": "Nintendo Switch, Wii U",
+            "trailer": "https://www.youtube.com/watch?v=IQHa4qindfE"
+        },
+        {
+            "id": 3,
+            "name": "Mario Kart 8",
+            "img": "https://assets1.ignimgs.com/2019/05/31/mario-kart-8---button-1559265583134.jpg",
+            "desc": "Mario Kart 8 is a kart racing video game; players control characters from the Mario universe to race in go-karts around a course. They may hinder their opponents or improve their performance using power-ups found in item boxes throughout the course.",
+            "rel_date": "May 29th, 2014",
+            "platforms": "Nintendo Switch, Wii U",
+            "trailer": "https://www.youtube.com/watch?v=NA6CAgv6p6g"
+        },
+        {
+            "id": 4,
+            "name": "Super Smash Bros. Ultimate",
+            "img": "https://www.nintendo.com/sg/switch/aaab/img/product.png",
+            "desc": "Super Smash Bros. Ultimate is a platform fighter for up to eight players in which characters from Nintendo games and other third-party franchises must try to knock each other out of an arena.",
+            "rel_date": "December 7th, 2018",
+            "platforms": "Nintendo Switch",
+            "trailer": "https://www.youtube.com/watch?v=hkTzHcHTcME"
+        },
+        {
+            "id": 5,
+            "name": "Mario Strikers Charged",
+            "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Mario_Strikers_Charged.jpg",
+            "desc": "The gameplay of Mario Strikers Charged is similar to that of the Super Mario Strikers with the player playing an exaggerated and arcade-like version of the game of football.",
+            "rel_date": "May 25th, 2007",
+            "platforms": "Wii U, Wii",
+            "trailer": "https://www.youtube.com/watch?v=PJZVydo57Hw"
+        },
+        {
+            "id": 6,
+            "name": "Mario & Sonic at the Rio 2016 Olympic Games",
+            "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/M%26s_rio_2016_wii_u_cover_art.jpg/220px-M%26s_rio_2016_wii_u_cover_art.jpg",
+            "desc": "Mario & Sonic at the Olympic Games Rio 2016 is a sports video game based on the 2016 Summer Olympics.",
+            "rel_date": "June 25, 2016",
+            "platforms": "Wii U, Nintendo 3DS, Arcade game",
+            "trailer": "https://www.youtube.com/watch?v=z8l4UR_tGeU"
+        },
+        {
+            "id": 7,
+            "name": "Mario Super Sluggers",
+            "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/MarioSuperSluggers.png",
+            "desc": "Mario Super Sluggers[a] is a sports and adventure video game for the Wii developed by Namco Bandai Games and Now Production, and published by Nintendo.",
+            "rel_date": "June 19th, 2008",
+            "platforms": "Wii U, Wii",
+            "trailer": "https://www.youtube.com/watch?v=w0kp0L_r1l4"
+        },
+        {
+            "id": 8,
+            "name": "New Super Mario Bros. 2",
+            "img": "https://upload.wikimedia.org/wikipedia/en/3/35/New_Super_Mario_Bros._2_box_artwork.png",
+            "desc": "The game's plot is similar to its predecessors, focusing on Mario and Luigi's efforts to rescue Princess Peach from Bowser and the Koopalings. It has a heavier emphasis on coin-collecting than other Super Mario games, with multiple unique items dedicated to producing large numbers of coins.",
+            "rel_date": "July 28, 2012",
+            "platforms": "Nintendo 3DS",
+            "trailer": "https://www.youtube.com/watch?v=eO8xe2AUY4c"
+        }
+    ]
+}
