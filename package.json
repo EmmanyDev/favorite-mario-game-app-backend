@@ -1,0 +1,17 @@
+{
+  "name": "backend-server",
+  "version": "1.0.0",
+  "description": "Backend for final project Vue app",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
